@@ -163,8 +163,8 @@ Hi!
 
 36
 00: 07: 23,927 -> 00: 07: 28,700
-How? No, the surveyor Mughini
-is up with the side director.
+Hello! What? No, the surveyor Mughini
+is up with the Side Director.
 
 37
 00: 07: 29,201 -> 00: 07: 30,701
@@ -177,7 +177,7 @@ No, Miss Silvani ...
 
 39
 00: 08: 00,796 -> 00: 08: 04,100
-SEALED OFFICE
+STAMPS OFFICE
 
 40
 00: 08: 39,712 -> 00: 08: 41,212
@@ -221,10 +221,10 @@ Hi!
 Hi!
 Hi everyone!
 
-fifty
+50
 00: 10: 30,968 -> 00: 10: 35,554
-So they need double paper
-and color tape for Olivetti?
+So they need extra strong paper
+and doubble color tape for Olivetti printers?
 
 51
 00: 10: 35,636 -> 00: 10: 38,868
@@ -339,7 +339,7 @@ I will, I will.
 75
 00: 13: 13,172 -> 00: 13: 14,942
 And now leave, Fantozzi,
-It smells like sweat!
+you smells like sweat!
 
 76
 00: 13: 15,181 -> 00: 13: 18,193
@@ -357,8 +357,8 @@ How can you sweat so much?
 
 79
 00: 13: 24,422 -> 00: 13: 26,760
-It is low spider,
-It has a plebeian metabolism.
+You have a plebeian metabolism.
+You are from the low class.
 
 80
 00: 13: 26,861 -> 00: 13: 28,664
@@ -452,7 +452,7 @@ Saleswoman, it's not a chimpanzee!
 100
 00: 14: 50,718 -> 00: 14: 53,398
 What are you talking about? Is he crazy?
-That is my bambina!
+That is my baby!
 
 101
 00: 14: 53,399 -> 00: 14: 55,780
@@ -461,15 +461,15 @@ She is the seller!
 
 102
 00: 14: 55,977 -> 00: 14: 58,904
-This is my babui ...
-bambina! My daughter!
+This is my monke ...
+baby! My daughter!
 
 103
 00: 15: 00,699 -> 00: 15: 02,442
 Mariangela, go change yourself,
 It is 7 o'clock.
 
-104
+104 << CHECK >>
 00: 15: 03,379 -> 00: 15: 07,454
 Excuse me, it's not a reproach,
 but he has treated my daughter ...
