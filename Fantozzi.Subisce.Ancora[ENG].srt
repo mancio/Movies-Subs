@@ -469,7 +469,7 @@ baby! My daughter!
 Mariangela, go change yourself,
 It is 7 o'clock.
 
-104 << CHECK >>
+104
 00: 15: 03,379 -> 00: 15: 07,454
 Excuse me, it's not a reproach,
 but he has treated my daughter ...
@@ -658,7 +658,7 @@ Never close the elevator!
 143
 00: 17: 34,280 -> 00: 17: 35,379
 He still owes three
-dues!
+installments!
 
 144
 00: 17: 35,380 -> 00: 17: 39,887
@@ -1062,8 +1062,8 @@ What happened?
 
 230
 00: 24: 25,852 -> 00: 24: 29,177
-He must have tipped a truck
-of subscription.
+He must have rammed a truck
+of manure.
 
 231
 00: 24: 31,502 -> 00: 24: 32,670
@@ -1100,11 +1100,11 @@ Such a young girl.
 238
 00: 24: 55,363 -> 00: 24: 59,588
 A young woman like her,
-letting up a former convict.
+letting up a jailbird.
 
 239
 00: 25: 01,138 -> 00: 25: 04,781
-I already asked you, Ugo, no
+I already asked you, Ugo, don't
 worry so much about "that one".
 
 240
@@ -1115,7 +1115,7 @@ worry so much about "that one".
 241
 00: 25: 08,289 -> 00: 25: 11,711
 Anyway I don't think that
-That young man looks like a former convict.
+That young man looks like a jailbird.
 
 242
 00: 25: 11,712 -> 00: 25: 14,166
@@ -1175,12 +1175,12 @@ I present to all my friends.
 
 254
 00: 26: 22,713 -> 00: 26: 24,213
-You feel bad?
+Do you feel bad?
 
 255
 00: 26: 28,262 -> 00: 26: 30,988
 - Will Franchino stay with us?
-- Clear!
+- For sure!
 
 256
 00: 26: 31,412 -> 00: 26: 32,912
@@ -1242,11 +1242,11 @@ Accountant Calboni!
 
 268
 00: 27: 27,923 -> 00: 27: 29,208
-Do you have a cane?
+Do you have a fishing rod?
 
 269
 00: 27: 29,209 -> 00: 27: 31,244
-If I have cane?
+If I have fishing rod?
 I have a very long one!
 
 270
@@ -1260,7 +1260,7 @@ It means I'm immersed.
 
 272
 00: 27: 37,016 -> 00: 27: 39,789
-- Nor bother me
+- Do not disturb me
 - Sorry.
 
 273
@@ -1342,12 +1342,12 @@ I had a suspicion.
 
 289
 00: 28: 46,013 -> 00: 28: 49,489
-You are the same old pig!
-Go fishing offshore!
+You are the same old pork!
+Go fishing offshore dirt!
 
 290
 00: 28: 49,529 -> 00: 28: 51,490
-Clear!
+For sure!
 Take my boat, right?
 
 291
